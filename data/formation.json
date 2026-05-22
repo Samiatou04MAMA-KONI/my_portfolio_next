@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Formation React",
+        "description": "Une formation complète pour apprendre React de A à Z.",
+        "date": "2023-01-15",
+        "duration": "40 heures",
+        "institution": "Ecole de programmation",
+        "image": "/images/react.jpg",
+        "form": "formation-react"
+    },
+    {
+        "id": 2,
+        "title": "Formation Next.js",
+        "description": "Apprenez à créer des applications web performantes avec Next.js.",
+        "date": "2023-02-20",
+        "duration": "30 heures",
+        "institution": "Ecole de programmation",
+        "image": "/images/next.jpg",
+        "form": "formation-nextjs"
+    },
+    {
+        "id": 3,
+        "title": "Formation Node.js",
+        "description": "Maîtrisez le développement backend avec Node.js et Express.",
+        "date": "2023-03-10",
+        "duration": "35 heures",
+        "institution": "Ecole de programmation",
+        "image": "/images/node.jpg",
+        "form": "formation-nodejs"
+    }
+]

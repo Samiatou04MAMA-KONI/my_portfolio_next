@@ -1,0 +1,23 @@
+const projects = {
+  'portfolio': {
+      title: 'Portfolio Personnel',
+      slug: 'portfolio',
+      description: 'Modern web site built with Next.js',
+      technologies: ['Next.js', 'React', 'CSS Modules'],
+      //…..
+  },
+  'ecommerce': {
+      title: 'App E-commerce',
+      slug: 'ecommerce',
+      description: 'Online store application with shopping cart',
+      technologies: ['React', 'Node.js', 'MongoDB'],
+      //…
+  },
+  'blog': {
+      title: 'Blog Technique',
+      slug: 'blog',
+      description: 'Personnal blog about web development',
+      technologies: ['Next.js', 'Markdown', 'SEO'],
+      //…
+  }
+}

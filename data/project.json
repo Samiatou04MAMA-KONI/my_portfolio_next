@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Personal Portfolio Website",
+        "description": "A responsive portfolio website built with React and Next.js to showcase my projects and skills.",
+        "image": "/images/portfolio1.png",
+        "tags": ["React", "Next.js", "CSS Modules"],
+        "slug": "portfolio",
+        "featured": true
+        },
+        {
+        "id": 2,
+        "title": "E-commerce Store",
+        "description": "An online store built with Node.js and Express, featuring user authentication and a shopping cart.",
+        "image": "/images/portfolio2.png",
+        "tags": ["Node.js", "Express", "MongoDB"],
+        "slug": "ecommerce",
+        "featured": true
+        },
+        {
+        "id": 3,
+        "title": "Blog Platform",
+        "description": "A blogging platform built with Django, allowing users to create and share their own blogs.",
+        "image": "/images/portfolio3.png",
+        "tags": ["Django", "Python", "Bootstrap"],
+        "slug": "blog",
+        "featured": false
+    }
+]

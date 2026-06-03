@@ -18,7 +18,7 @@ const poppins = Poppins({
 
 
 export const metadata = {
-  title: "Samiatou MAMA KONI's Portfolio",
+  title: "Portfolio",
   description: "Passioned web developer building modern web applications with Next.js.",
 };
 
